@@ -1,0 +1,298 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Rebels elegy</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58287</idno>
+            <idno type="STC">Wing R601</idno>
+            <idno type="STC">ESTC R39750</idno>
+            <idno type="EEBO-CITATION">18481789</idno>
+            <idno type="OCLC">ocm 18481789</idno>
+            <idno type="VID">107837</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58287)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107837)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1642:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Rebels elegy</title>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Weld ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>"This may be printed, R.L.S. Nov. 6, 1685."</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Imperfect: torn.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:107837:1"/>
+            <!-- PDF PAGE 4 -->
+            <head>The Rebels ELEGY.</head>
+            <lg>
+               <l>REbels Goodnight: Would any Man ha' thought,</l>
+               <l>That They who durſt Rebel, durſt not have fought?</l>
+               <l>But Rebels looſe their Courage, while their Swords</l>
+               <l>Drop from their Hands, like Fool's unwary Words.</l>
+               <l>Rebels, and having ſpoke that Hated Name,</l>
+               <l>No wonder Rebels were ſo quickly tame.</l>
+               <l>Fitter to Hang then Fight: Immortal Fellows,</l>
+               <l>Cowards i'th' Field, but Valiant at the Gallows.</l>
+            </lg>
+            <lg>
+               <l>They ſcorn'd to dye in Honours Truckle-Bed;</l>
+               <l>The Gallows, Curtain'd with the Multitude,</l>
+               <l>And fairly Canopy'd with Azure Sky,</l>
+               <l>Was that which rais'd their Thoughts and Heads ſo high.</l>
+               <l>Us'd to ſoft Beds, for Gibbets they took care;</l>
+               <l>For n'ere was <hi>Down</hi> ſo ſoft as is the <hi>Air.</hi>
+               </l>
+               <l>Thus <hi>Meteors</hi> dye, and thus <hi>falſe Lights</hi> expire;</l>
+               <l>Pendant awhile, down drops <hi>Fanatic Fire;</hi>
+               </l>
+               <l>An End it ſeems in which they <hi>All</hi> delight.</l>
+            </lg>
+            <lg>
+               <l>But They were Men would ſtill be oppoſite</l>
+               <l>To all the World; 'cauſe all the World beſide</l>
+               <l>Applauded Monarchy; not ſo, They cry'd;</l>
+               <l>We'll have a <hi>Commonwealth;</hi> and then becauſe</l>
+               <l>The Heath'niſh Poets, giving high Applauſe</l>
+               <l>To luckleſs Valour, ſtill maintain'd, that They</l>
+               <l>Who in the Field of Battel proſtrate lay,</l>
+               <l>A Banquet for the Hungry Fowl beſide,</l>
+               <l>Yet in the Noble Bed of Honour dy'd.</l>
+               <l>Believe thoſe Rogues! Believe the Devil ſooner;</l>
+               <l>They cry'd, the Gallows is the Bed of Honour.</l>
+               <l>Well—Let 'em ha't; the Favours not worth ſpeaking,</l>
+               <l>To let 'em dye in Beds of their own making.</l>
+            </lg>
+            <lg>
+               <l>In <hi>Holland</hi> tho, <hi>Bell-ſwaggers,</hi> Sons of <hi>Mars,</hi>
+               </l>
+               <l>
+                  <hi>Godfreys</hi> of <hi>Bologn,</hi> All for Holy Wars.</l>
+               <l>Three Kingdoms in a Minute muſt be won</l>
+               <l>With <hi>Caeſars</hi> Motto, <hi>Come and ſee;</hi> Not One,</l>
+               <l>But had a Killing Face, a <hi>Gorgon's</hi> Head,</l>
+               <l>At once to look a Thouſand Read-Coats Dead.</l>
+               <l>Nay more; They call'd the Gyants heartleſs Elves,</l>
+               <l>That ſuffer'd a Repulſe from Gods themſelves.</l>
+               <l>And by the Cup that bold <hi>Cethegus</hi> fill'd,</l>
+               <l>They ſwore, or All to Kill, or All be Kill'd.</l>
+               <l>But after all—alack and well a day,</l>
+               <l>For when They ſhould have fought, they run away:</l>
+               <l>And only ſome poor Bumpkins, They ſtood to't,</l>
+               <l>That neither knew for Whom, nor Why they fought.</l>
+               <l>What then remains, but as in Foreſt Game,</l>
+               <l>The Law in Warlike Chaſe ſhould be the ſame:</l>
+               <l>And therefore fearing to debauch his <hi>Cry,</hi>
+               </l>
+               <l>The Huntſman ought to hang the <hi>Curs</hi> that <hi>lye.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But ſtrange to tell! when to the Gallows led,</l>
+               <l>Their Hearts revive at ſight of <hi>Hnours Bed.</hi>
+               </l>
+               <l>They that fear'd Death, when they might well avoid it,</l>
+               <l>Becauſe they cannot help it, now deride it.</l>
+               <l>Noiſes of Battel both amaze and ſtun,</l>
+               <l>When he thats Hang'd has time to <hi>Kiſs</hi> him <hi>Son.</hi>
+               </l>
+               <l>
+                  <hi>Katch</hi> never meets theſe Men of Paradoxes</l>
+               <l>With diſmal Guns and frightful Battel-Axes.</l>
+               <l>A ſilent Rope, that makes no Noiſe at all,</l>
+               <l>Gives 'em both time to <hi>Pray</hi> and time to Bawl.</l>
+               <l>For that's an Honour too, to make a <hi>Speech,</hi>
+               </l>
+               <l>For Printers Profit, then to wipe your Breech.</l>
+               <l>And all your Actors ſtill deſire a full-Pit,</l>
+               <l>Which They ſtill have, who Preach in Deaths own Pulpit.</l>
+               <l>Like <hi>Sampſons</hi> Arms, they think thoſe Engins proof,</l>
+               <l>The maſſy Columns of Heav'ns Vaulted Roof</l>
+               <l>To bow, and bring Celeſtial Vengeance down,</l>
+               <l>To expiate the Crimes which they diſown.</l>
+               <l>As if the Words of Dying Men, and Noiſe</l>
+               <l>Of Men adjudg'd to Dye, had equal poiſe.</l>
+               <l>For Truth attends on <hi>Dying Mens</hi> laſt Breath;</l>
+               <l>Which he can never ſpeak that dyes in Wrath.</l>
+               <l>For who asks Pardon, yet by ſcorn of Death,</l>
+               <l>And paſſive Mummery of <hi>Great</hi> and <hi>Brave</hi>
+               </l>
+               <l>Upholds his Crime, is but a <hi>Dying Knave.</hi>
+               </l>
+               <l>And tho he ſeemingly forgive, could Eat</l>
+               <l>The <hi>juſt Inflicters,</hi> were they ne're ſo Great.</l>
+               <l>Forgive! 'tis Nonſence: No man can forgive</l>
+               <l>But he muſt Injur'd firſt believe.</l>
+               <l>So Truth to tell, th'are only words deſign'd,</l>
+               <l>As dying Serpents leave their pois'nous Breath behind.</l>
+            </lg>
+            <lg>
+               <l>But there's another Honour yet to come,</l>
+               <l>The Honour, what d'ye call't, of <hi>Martyrdom.</hi>
+               </l>
+               <l>For ſtrait the <hi>Party;</hi> oh the <hi>Party,</hi> They</l>
+               <l>His Funeral Rites in mournful Claret pay.</l>
+               <l>Meet and Condole; and <hi>Oh! how like a Hero!</hi>
+               </l>
+               <l>And then another Drinks, and whiſpers—<hi>Nero.</hi>
+               </l>
+               <l>
+                  <hi>The Judg was Cruel; Witneſſes Forſworn;</hi>
+               </l>
+               <l>
+                  <hi>But He the Victor, He the Man of Scorn</hi>
+               </l>
+               <l>
+                  <hi>That Death Contemn'd; made Innocence appear</hi>
+               </l>
+               <l>
+                  <hi>And gave the</hi> Court <hi>a curſed Box o'th' Ear</hi>
+               </l>
+               <l>And now, quo they, that this is truly hinted,</l>
+               <l>
+                  <hi>You'l ſee, they'l never let his Speech be Printed.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Ill Read in <hi>Men</hi> and <hi>Human Morals</hi> too,</l>
+               <l>To give to <hi>Stubborn Paſſion, Vertues</hi> due:</l>
+               <l>For <hi>Reſolute, Conſtant,</hi> change their Glorious Names</l>
+               <l>In Breſts of Traitors; as in Hell th' Extremes</l>
+               <l>Of Heavn's Perfections Angel turn'd to Devil,</l>
+               <l>There's no ſuch Thing as <hi>Vertue</hi> in a Rebel;</l>
+               <l>The Crime of Heav'n, ere Man knew how to ſin,</l>
+               <l>That Chaos'd all his <hi>Little World</hi> agen</l>
+            </lg>
+            <lg>
+               <l>Men thus miſtaken are by Folly ſwayd,</l>
+               <l>Or elſe by Vanity more vicious lead.</l>
+               <l>For <hi>Fortitude</hi> does only in <hi>Juſt</hi> appear;</l>
+               <l>Tis <hi>Oſtentation</hi> elſe diſſembles <hi>Fear.</hi>
+               </l>
+               <l>They utter falſhood, when they cry, <hi>They come</hi>
+               </l>
+               <l>
+                  <hi>To pay Dame Natures Debt,</hi> by fatal doom:</l>
+               <l>For why? we know they 're hang'd; and ſo, 'tis true,</l>
+               <l>They pay the Bond; but 'tis before 'tis due.</l>
+               <l>And they that ſuffring, a fair Story tell</l>
+               <l>Are nere a whit the farther off from Hell.</l>
+               <l>Bad <hi>Reſolution</hi> is but <hi>bad Deſpair;</hi>
+               </l>
+               <l>
+                  <hi>Falſe Conſtancy, Self-love,</hi> ſurmounting Fear;</l>
+               <l>While they that ſeem ſo well reſolv'd to dye,</l>
+               <l>Make but a <hi>Vertue</hi> of <hi>Neceſſity.</hi>
+               </l>
+               <l>A Bravery, Story yet did never name</l>
+               <l>But with Diſhonour and the Brand of Shame.</l>
+               <l>Thus what can <hi>Felton</hi> or <hi>Jocundus</hi> glory?</l>
+               <l>They live, 'tis true, but putrifyd in Story.</l>
+               <l>For Fame, like Coyn, is either true or baſe,</l>
+               <l>The one goes currant, th' other we deface,</l>
+               <l>Dye Rebels then, like Rebels, while we ſings,</l>
+               <l>So periſh All that Riſe to hurt my Lord the <hi>KING.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>This may be Printed,</p>
+            <closer>
+               <signed>R. L. S.</signed> 
+               <dateline>
+                  <date>Nov. 6. 1685.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>Printed for</hi> JOHN WELD, <hi>at the</hi> Crown <hi>in</hi> Fleetſtreet, 1685.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
